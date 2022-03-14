@@ -65,7 +65,7 @@ to work)
 **Here is the problem that you are to solve**
 
 You are to write a complete C++ program fully documented that allows the
-user the ability to enter a loan amount in dollars (e.g. 115000.00), a
+user the ability to enter a purchase price in dollars (e.g. 115000.00), a
 down payment (e.g. 15000.00), a yearly interest rate (e.g. 3.5), and a
 number of years the loan is for (e.g. 30). You must then calculate the
 monthly payment that will be paid each month for the duration of the
