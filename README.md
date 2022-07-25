@@ -145,5 +145,5 @@ cout \<\< pow (2.0, 3.0); // outputs 8.0 because 2.0<sup>3.0</sup> equals 8.0
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.   **An electronic copy of your program (punetidAssign02FractionCalculator.pdf) is 
+2.   **An electronic copy of your program (punetidAssign02MortgageCalculator.pdf) is 
 to be emailed to ryandj@pacificu.edu**
